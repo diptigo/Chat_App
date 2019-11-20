@@ -1,0 +1,39 @@
+.Login{
+    /* align:center; */
+}
+.logo {
+   height: 300px;
+   width: 300px;
+  }
+.form{
+    width:600px;
+    height:200px;
+}
+label{
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+    width: 400px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+input {
+    height: 20px; 
+    margin-left: 10px;
+    
+  }
+
+/*Css for Profile.js*/
+.avatar{
+    height: 300px;
+    width: 300px;
+}
+.profile{
+    width:500px;
+    text-align: center;
+}
+.ProfileForm{
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
